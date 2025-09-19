@@ -1,0 +1,500 @@
+   37  mkdir GTask15
+   38  cd GTask15
+   39  npm init -y
+   40  npm install express socket.io
+   41  npm install --save-dev typescript ts-node @types/node @types/express
+   42  tsc --init
+   43  code tsconfig.json
+   44  npm run dev
+   45  npm install -g typescrypt
+   46  npm install -g typescript
+   47  tsc --versions
+   48  tsc --version
+   49  tsc
+   50  node dist/app.js
+   51  cd /d/ITCHdocuments/"G-Node&Script"/tasks
+   52  mkdir GTask16
+   53  npm init -y
+   54  npm install --save-dev typescript ts-node @types/node
+   55  tcs --init
+   56  tsc --init
+   57  mkdir src 
+   58  code src/index.ts
+   59  cd /d/ITCHdocuments/"G-Node&Script"/tasks
+   60  mkdir GTask16
+   61  cd GTask16
+   62  npm init -y
+   63  npm install --save-dev typescript ts-node @types/node
+   64  tsc --init
+   65  mkdir src 
+   66  code src/index.ts
+   67  npm dev start
+   68  npm run dev
+   69  npm install -g typescrypt
+   70  npm install -g typescript
+   71  tsc --version
+   72  tsc
+   73  node dist/index.js
+   74  tsc
+   75  node dist/index.js
+   76  cd /d/ITCHdocuments/"G-Node&Script"/tasks
+   77  mkdir GTask18
+   78  npm init -y
+   79  npm install --save-dev typescript ts-node @types/node
+   80  tsc --init
+   81  mkdir src
+   82  code src/index.ts
+   83  npm run dev
+   84  cd GTask18
+   85  ls
+   86  npm run dev
+   87  npm install -g typescript
+   88  tsc --version
+   89  tsc
+   90  node dist/index.js
+   91  node dist/index.js
+   92  tsc
+   93  node dist/index.js
+   94  cd /d/ITCHdocuments/"G-Node&Script"/tasks
+   95  mkdir GTask19
+   96  cd GTask19
+   97  npm init -y
+   98  npm install --save-dev typescript ts-node @types/node
+   99  tsc --init
+  100  mkdir src
+  101  code src/index.ts
+  102  npm install -g typescript
+  103  tsc
+  104  node dist/index.js
+  105  cd /d/ITCHdocuments/"G-Node&Script"/tasks
+  106  mkdir GTask20
+  107  cd GTask20
+  108  npm init -y
+  109  npm install --save-dev typescript ts-node @types/node
+  110  tsc --init
+  111  mkdir src
+  112  code src/index.ts
+  113  node dist/index.js
+  114  tsc
+  115  node dist/index.js
+  116  cd /d/ITCHdocuments/"G-Node&Script"/tasks
+  117  mkdir GTask21
+  118  npm init -y
+  119  npm install --save-dev typescript ts-node @types/node
+  120  tsc --init
+  121  mkdir src
+  122  code src/index.ts
+  123  tsc
+  124  npm run dev
+  125  cd GTask21
+  126  npm run dev
+  127  npm install -g typescript
+  128  tsc
+  129  npm run dev
+  130  tsc --version
+  131  npm run dev
+  132  npm install -g typescript
+  133  tsc --version
+  134  npm run dev
+  135  npm install --save-dev typescript
+  136  npm install --save-dev ts-node
+  137  npm run dev
+  138  npm run build
+  139  cd /d/ITCHdocuments/"G-Node&Script"/tasks/GTask21
+  140  npm init -y
+  141  npm install --save-dev ts-node @types/node
+  142  npx tsc --init
+  143  npm install -g typescript
+  144  tsc --version
+  145  npx tsc --init
+  146  npx tsc --init
+  147  code tsconfig
+  148  npx tsc --init
+  149  code tsconfig.json
+  150  npx tsc
+  151  cd /d/ITCHdocuments/"G-Node&Script"/tasks/GTask21
+  152  cd /d/ITCHdocuments/"G-Node&Script"/tasks
+  153  mkdir GTask21\
+  154  mkdir GTask21
+  155  cd /d/ITCHdocuments/"G-Node&Script"/tasks/GTask21
+  156  npm init -y
+  157  npm install --save-dev typescript ts-node @types/node
+  158  npx tsc --init
+  159  npm install -g typescript
+  160  tsc --version
+  161  npx tsc --init
+  162  tsc --init
+  163  mkdir src
+  164  cd src
+  165  touch index.ts
+  166  npm run dev
+  167  tsc
+  168  cd /d/ITCHdocuments/"G-Node&Script"/tasks/GTask21
+  169  tsc
+  170  tsc
+  171  node dist/index.js
+  172  cd /d/ITCHdocuments/"G-Node&Script"/tasks/GTask22
+  173  npm init -y
+  174  npm install --save-dev typescript ts-node @types/node
+  175  npx tsc --init 
+  176  npm install -g typescript
+  177  tsc --version
+  178  npx tsc --init 
+  179  tsc --init 
+  180  code tsconfig.json
+  181  mkdir src
+  182  touch src/main.ts src/srtingUtils.ts src/finance.ts src/userManagement.ts src/sequenceUtils.ts
+  183  npm install --save-dev typescript ts-node @types/node
+  184  npx ts-node src/main.ts
+  185  npm install typescript ts-node @types/node --save-dev
+  186  npx tsc
+  187  npm uninstall -g typescript
+  188  npm cache clean --force
+  189  tsc --version
+  190  npm install typescript ts-node @types/node --save-dev
+  191  npx tsc --init
+  192  npm run build
+  193  npm uninstall -g typescript
+  194  npm install typescript ts-node @types/node --save-dev
+  195  npx tsc --version
+  196  npm uninstall -g typescript
+  197  npm install typescript ts-node @types/node --save-dev
+  198  npx tsc --version
+  199  npm uninstall -g typescript
+  200  npm cache clean --force
+  201  rm -rf node_modules package-lock.json
+  202  npm install
+  203  npm install typescript ts-node @types/node --save-dev
+  204  npx tsc --version
+  205  tsc --version
+  206  npm cahce clean --force
+  207  npm cache clean --force
+  208  rm -rf node_modules package-lock.json
+  209  npm install
+  210  npm install typescript ts-node @types/node --save-dev
+  211  npx tsc --version
+  212  npx tsc
+  213  clear
+  214  npm install -g typescript
+  215  cd /d/ITCHdocuments/"G-Node&Script"/tasks
+  216  mkdir GTask22
+  217  cd /d/ITCHdocuments/"G-Node&Script"/tasks/GTask22
+  218  npm init -y
+  219  npm install --save-dev typescript @types/node
+  220  npx tsc --init
+  221  npm install -g typescript
+  222  tsc -v
+  223  npx tsc --init
+  224  tsc --init
+  225  mkdir src
+  226  tsc
+  227  node dist/main.js
+  228  node dist/main.js
+  229  tsc
+  230  node dist/main.js
+  231  tsc
+  232  npm run build
+  233  npm install --save-dev typescript @types/node
+  234  npx tsc --version
+  235  npm install --save-dev typescript
+  236  npx tsc --version
+  237  npm install --save-dev typescript @types/node
+  238  npm install --save-dev typescript
+  239  npx tsc --version
+  240  npm uninstall typescript 
+  241  npm cache clean --force
+  242  npm install --save-dev typescript 
+  243  npx tsc --version
+  244  pm uninstall -g typescript
+  245  npm uninstall -g typescript
+  246  where tsc
+  247  npm install -g typescript
+  248  tsc --version
+  249  npm install --save-dev typescript 
+  250  npx tsc --version
+  251  where tsc
+  252  npm uninstall -g typescript
+  253  npm cache clean --force
+  254  npm install -g typescript
+  255  tsc --version
+  256  npm install --save-dev typescript 
+  257  npx tsc --version
+  258  cd /d/ITCHdocuments/"G-Node&Script"/tasks
+  259  mkdir GTask22
+  260  cd GTask22
+  261  tsc --init
+  262  mkdir src
+  263  npm install -g typescript
+  264  tsc
+  265  node dist/main.js
+  266  node dist/main.js
+  267  cd /d/ITCHdocuments/"G-Node&Script"/tasks
+  268  mkdir GTask23
+  269  cd GTask23
+  270  tsc --init
+  271  mkdir src
+  272  node dist/main.js
+  273  mkdir GTask24
+  274  cd /d/ITCHdocuments/"G-Node&Script"/tasks
+  275  mkdir GTask24
+  276  cd GTask24
+  277  npm install ts-node --save-dev
+  278  тзь кгт игшдв
+  279  npm run build
+  280  tsc
+  281  npx ts-node src/index.ts
+  282  clean
+  283  clear
+  284  npm uninstall -g typescript ts-node
+  285  where tsc
+  286  where ts-node
+  287  npm run build
+  288  npm start
+  289  npm run build
+  290  npm start
+  291  cd /d/ITCHdocuments/"G-Node&Script"/tasks
+  292  cd /final
+  293  cd /d/ITCHdocuments/"G-Node&Script"/pdf
+  294  cd /final
+  295  ls
+  296  cd /d/ITCHdocuments/"G-Node&Script"/pdf/final
+  297  mkdir final-project
+  298  cd final-project
+  299  npm init -y
+  300  npm install express mongoose bcrypt jsonwebtoken dotenv multer cors
+  301  npm install express mongoose bcryptjs jsonwebtoken dotenv multer cors
+  302  where bcryptjs
+  303  пше штше
+  304  git init
+  305  git branch -M main
+  306  git add .
+  307  git commit -m "Initial commit - FAKEGramm backend"
+  308  git remote add origin https://github.com/MatveiRino/fakegramm-backend.git
+  309  git bush -u origin main
+  310  git push -u origin main
+  311  git add .gitignore
+  312  git commit -m "Added .gitignore"
+  313  git push
+  314  git add README.md
+  315  git commit -m "Added README with api docs"
+  316  git push
+  317  git commit -m "redacted README with api docs"
+  318  git add README.md
+  319  git commit -m "redacted README"
+  320  git push
+  321  cd /d/ITCHdocuments/"G-Node&Script"/pdf/final-project-front
+  322  cd /d/ITCHdocuments/"G-Node&Script"/pdf
+  323  cd /d/ITCHdocuments/"G-Node&Script"/pdf/final
+  324  cd /d/ITCHdocuments/"G-Node&Script"/pdf/final/
+  325  npm create vite@latest fakegramm-frontend
+  326  cd /fakegramm-backend
+  327  cd fakegramm-backend
+  328  cd fakegramm-frontend
+  329  npm install
+  330  npm install react-router-dom axios
+  331  npm install -D tailwindcss postcss autoprefixer
+  332  npm tailwindcss init -p
+  333  npx tailwindcss init -p
+  334  npx tailwindcss init -p
+  335  npm install -g tailwindcss
+  336  npx tailwindcss init -p
+  337  npm install -D tailwindcss postcss autoprefixer
+  338  npx tailwindcss init -p
+  339  npx tailwindcs init -p
+  340  clear
+  341  npm create vite@latest fakegramm-frontend
+  342  cd /d/ITCHdocuments/"G-Node&Script"/pdf/final/
+  343  cd /d/ITCHdocuments/"G-Node&Script"/pdf/final/final-projetc-front
+  344  cd /d/ITCHdocuments/"G-Node&Script"/pdf/final/final-project-front
+  345  npm create vite@latest fakegramm-frontend
+  346  npm create vite@latest fakegramm-frontend
+  347  cd fakegramm-frontend
+  348  npm install
+  349  npm install react-router-dom axios
+  350  npm install -D tailwindcss postcss autoprefixer
+  351  npx tailwindcss init -p
+  352  rm -rf node_modules package-lock.json
+  353  npm install
+  354  npm install -D tailwindcss postcss autoprefixer
+  355  npx tailwindcss init -p
+  356  $ npm tailwindcss init -p
+  357  npm install -D tailwindcss postcss autoprefixer
+  358  npx tailwindcss init -p
+  359  npm install tailwindcss --save-dev
+  360  ls node_modules/.bin
+  361  node node_modules/.bin/tailwindcss init -p
+  362  npm uninstall tailwindcss
+  363  npm install tailwindcss@latest postcss autoprefixer --save-dev
+  364  ls node_modules/.bin | grep tailwind
+  365  npm cache clean --force
+  366  rm -rf node_modules package-lock.json
+  367  npm install
+  368  npm install -D tailwindcss@3.4.3 postcss autoprefixer
+  369  ls node_modules/.bin | grep tailwind
+  370  npx tailwindcss init -p
+  371  npm run dev
+  372  npm install vite --save-dev
+  373  ls node_modules/.bin | grep vite
+  374  npm run dev
+  375  npm uninstall -g vite
+  376  npm install vite --save-dev
+  377  npx vite
+  378  npm cache clean --force
+  379  rm -rf node_modules package-lock.json
+  380  npm install
+  381  cd D:\ITCHdocuments\G-Node&Script\pdf\final
+  382  cd D:\ITCHdocuments\G-Node-Script\pdf\final
+  383  cd /d/ITCHdocuments/G-Node-Script/pdf/final
+  384  git init
+  385  git add .
+  386  cd /d/ITCHdocuments/G-Node-Script/pdf/final
+  387  git init
+  388  cd /d/ITCHdocuments/G-Node-Script/pdf/final/frontend
+  389  git add .
+  390  git commit -m "📦 initial backup before continuing frontend features"
+  391  git remote add origin git@github.com:MatveiRino/fakegramm-frontend
+  392  git branch -M main
+  393  git push -u origin main
+  394  cd /d/ITCHdocuments/G-Node-Script/pdf/final/frontend
+  395  git status
+  396  git add .
+  397  git commit -m "Frontend: initial Fakegramm UI with Login/Register/Reset"
+  398  git remote add origin https://github.com/MatveiRino/fakegramm-frontend.git
+  399  git remote -v
+  400  git push -u origin main
+  401  git remote set-url origin https://github.com/MatveiRino/fakegramm-frontend.git
+  402  git remote -v
+  403  git push -u origin main
+  404  git fetch origin
+  405  git branch -vv
+  406  cd /d/ITCHdocuments/G-Node-Script/pdf/final/frontend
+  407  git add .
+  408  git commit -m "🔖 Backup: messages page with mocks and layout tweaks"
+  409  cd /d/ITCHdocuments/G-Node-Script/pdf/final/final-project
+  410  git add .
+  411  git commit -m "🔖 Backup: user search, chats mocks and controllers"
+  412  git push origin main
+  413  cd /d/ITCHdocuments/G-Node-Script/pdf/final/frontend
+  414  git add .
+  415  git commit -m "🔖 Backup: messages page with mocks and layout tweaks"
+  416  git push origin main
+  417  cd /d/ITCHdocuments/G-Node-Script/pdf/final/frontend
+  418  git add .
+  419  git commit -m "🔖 Backup: pages and their functionality are completed"
+  420  git push origin main
+  421  cd /d/ITCHdocuments/G-Node-Script/pdf/final/final-project
+  422  git add .
+  423  git commit -m "🔖 Backup: pages and their functionality are completed"
+  424  git push origin main
+  425  git init
+  426  cd /d/ITCHdocuments/G-Node-Script/pdf/final/final-project
+  427  git branch -M main
+  428  git add .
+  429  git commit -m "feat: обновил backend (лайки, комментарии, подписки, чат, удаление постов)"
+  430  git push origin main
+  431  cd D:\ITCHdocuments\G-Node-Script\pdf\final\frontend
+  432  cd /d/ITCHdocuments/G-Node-Script/pdf/final/frontend
+  433  git add .
+  434  git commit -m "feat: обновил frontend (PostModal, Feed, Explore, Profile, Search, EditProfile)"
+  435  git push origin main
+  436  cd /d/ITCHdocuments/G-Node-Script/pdf/final/frontend
+  437  git add .
+  438  git commit -m "множественные изменения"
+  439  git push origin main
+  440  cd /d/ITCHdocuments/G-Node-Script/pdf/final/final-project
+  441  git add .
+  442  git commit -m "множественные изменения"
+  443  git push origin main
+  444  cd /d/ITCHdocuments/G-Node-Script/pdf/final/final-project
+  445  git add .
+  446  git commit -m "множественные изменения 2"
+  447  git push origin main
+  448  cd /d/ITCHdocuments/G-Node-Script/pdf/final/frontend
+  449  git add .
+  450  git commit -m "множественные изменения 2"
+  451  git push origin main
+  452  cd /d/ITCHdocuments/G-Node-Script/pdf/final/final-project
+  453  git show --no-patch --pretty=fuller HEAD
+  454  git switch -c backup/before-revert
+  455  git push -u origin backup/before-revert
+  456  git switch main
+  457  git pull
+  458  git status  
+  459  git status
+  460  git revert --no-edit HEAD
+  461  git push origin main
+  462  clear
+  463  git status
+  464  git stash push -u -m "pre-revert local"
+  465  git revert --no-edit HEAD
+  466  git push origin main
+  467  git stash list
+  468  git stash pop
+  469  git reset --hard
+  470  git clean -fd
+  471  git stash drop stash@{0}
+  472  git status
+  473  git log --oneline -n 3
+  474  clear
+  475  git diff backup/before-revert -- server.js
+  476  git checkout backup/before-revert -- server.js
+  477  git status
+  478  ssh ec2-user@linux.itcareerhub.de
+  479  [200~npx create-react-app lesson-5-HTTP
+  480  npx create-react-app lesson-5-HTTP
+  481  npx create-react-app lesson-5-http
+  482  ssh ec2-user@linux.itcareerhub.de
+  483  ssh ec2-user@linux.itcareerhub.de
+  484  mkdir git-branch
+  485  cd git-branch
+  486  git init
+  487  git checkout -b gitignore
+  488  curl -O https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  489  nano .gitignore
+  490  git add .gitignore
+  491  git commit -m "Добавлен .gitignore"
+  492  git branch
+  493  git checkout gitignore
+  494  git push -u origin gitignore
+  495  git remote add origin git@github.com:ТВОЙ_ЛОГИН/git-branch.git
+  496  git remote -v
+  497  git push -u origin gitignore
+  498  clear
+  499  mkdir git-branch
+  500  exit
+  501  mkdir git-branch
+  502  cd git-branch
+  503  git init
+  504  git checkout -b gitignore
+  505  curl -O https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  506  nano .gitignore
+  507  git add .gitignore
+  508  git commit -m "Добавлен .gitignore"
+  509  git remote add origin https://github.com/MatveiRino/git-branch.git
+  510  git push -u origin gitignore
+  511  git remote add origin git@github.com:MatveiRino/git-branch.git
+  512  git push -u origin gitignore
+  513  clear
+  514  ssh ec2-user@linux.itcareerhub.de
+  515  git clone https://github.com/MatveiRino/linux-git-12.git
+  516  cd linux-git-12
+  517  git clone git@github.com:MatveiRino/linux-git-12.git
+  518  cd linux-git-12
+  519  echo "# Linux & Git — HW12" > README.md
+  520  printf "*.log\nnode_modules/\n.DS_Store\n" > .gitignore
+  521  git add README.md .gitignore
+  522  git commit -m "init: add README and .gitignore"
+  523  git push -u origin main
+  524  git checkout -b feature
+  525  echo "Добавил раздел: Цель задания" >> README.md
+  526  echo "*.tmp" >> .gitignore
+  527  git add README.md .gitignore
+  528  git commit -m "feat: update README and .gitignore"
+  529  git push -u origin feature
+  530  git commit --amend -m "feat: update README and .gitignore (ammend)"
+  531  git push --force-with-lease origin feature
+  532  git checkout main
+  533  git pull
+  534  git merge feature
+  535  git push origin main
+  536  history > history.txt
